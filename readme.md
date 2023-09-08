@@ -1,4 +1,4 @@
-# Whatsis moock-up Website
+# Whatsis mock-up Website
 
 Bootstrap5 website for a mock company that creates and customizes office spaces. I can customize this site to just about any kind of business. It is a very light business theme with a clean design.
 
