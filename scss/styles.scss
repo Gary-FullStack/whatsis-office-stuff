@@ -70,7 +70,9 @@
     .header .image-container {
         margin-top: 30px;
     }
-}
 
-@media (max-width: 767px) {
+    .services .col-md-4 {
+        border-bottom: 1px #ccc solid;
+        margin: 7px 0;
+    }
 }
